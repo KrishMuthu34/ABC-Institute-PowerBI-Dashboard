@@ -29,8 +29,9 @@ Power BI, Power Query, DAX
 - (Unga actual findings vera irundha add pannunga)
 
 ## Data
-Student personal details (name, phone, email) are not shared
-for privacy. Only the column structure is documented in data_dictionary.md.
+This project uses a sample (synthetic) dataset of student
+records created for practice. It does not contain real
+personal information.
 
 ## Author
 Krishnasamy K | GitHub: KrishMuthu34 | LinkedIn: <your link>
